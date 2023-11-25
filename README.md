@@ -2,7 +2,7 @@
 
 On this repository you have
 + Top 10K English Words list
-+ unique 235k+ English Words list
++ unique 511k+ English Words list
 + unique 466k+ English Words with numbers & symbols
 
 ## Help
